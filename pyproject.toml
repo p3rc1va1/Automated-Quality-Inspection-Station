@@ -1,7 +1,7 @@
 [project]
 name = "automated-quality-inspection-station"
 version = "0.1.0"
-description = "Add your description here"
+description = "PCB Defect Detection using YOLOv8 - Automated quality inspection system for detecting defects in Printed Circuit Boards"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -14,3 +14,6 @@ dependencies = [
     "pandas>=2.3.3",
     "ultralytics>=8.3.235",
 ]
+
+[project.scripts]
+train = "train:train"
