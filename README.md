@@ -4,7 +4,7 @@ Automated quality inspection system for detecting defects in Printed Circuit Boa
 
 ## 🏗️ YOLOv8 Architecture
 
-![YOLOv8 Architecture](./Users/bahacelik/Documents/Coding/Automated-Quality-Inspection-Station/Basic-architecture-of-YOLOv8-object-detection-model.ppm.png)
+![YOLOv8 Architecture](./Basic-architecture-of-YOLOv8-object-detection-model.ppm.png)
 
 *Detailed YOLOv8 architecture showing Backbone (CSPDarknet), Neck (FPN + PAN), and Detection Head [link](https://www.researchgate.net/publication/376831163_YOLOv8_based_Traffic_Signal_Detection_in_Indian_Road)*
 
